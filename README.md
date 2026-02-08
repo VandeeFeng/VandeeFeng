@@ -4,7 +4,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Agent Skill in OpenCode](https://www.vandee.art/blog/2026-01-23-my-agent-skill-in-opencode.html)
+- [My Agent Practice with OpenCode in Emacs](https://www.vandee.art/blog/2026-01-23-my-agent-practice-with-opencode-in-emacs.html)
 - [Vibe Coding is kind of like borrowing](https://www.vandee.art/blog/2026-01-05-vibe-coding-is-kind-of-like-borrowing.html)
 - [2025 - 益](https://www.vandee.art/blog/2025-12-10-the-summary-of-2025.html)
 - [Native Linux on Apple Silicon Mac](https://www.vandee.art/blog/2025-12-09-native-linux-on-apple-silicon-mac.html)
